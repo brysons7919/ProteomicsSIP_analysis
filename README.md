@@ -10,7 +10,7 @@
 
 - Data analysis needed to allow exploration of community structure at different taxonomic ranks, protein abundance (also at different taxonomic ranks), and protein labeling according to two metrics developed to characterize substrate incorporation.
 
-    1- Average Enrichment - The Average 13C% of labeled proteins/peprtides; this metric convays information about the specialization of a particular taxa or population for a specific substrate.
+    1- Average Enrichment - The Average 13C% of labeled proteins/peptides; this metric conveys information about the specialization of a particular taxa or population for a specific substrate.
     
     2- Label Frequency - The proportion of an identified proteome that is labeled (i.e. 13C% above background); this metric conveys information about a particular taxa or population's protein synthesis activity.
 

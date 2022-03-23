@@ -23,3 +23,4 @@
     - Bryson, Samuel, Zhou Li, Francisco Chavez, Peter K. Weber, Jennifer Pett-Ridge, Robert L. Hettich, Chongle Pan, Xavier Mayali, and Ryan S. Mueller. 2017. “Phylogenetically Conserved Resource Partitioning in the Coastal Microbial Loop.” The ISME Journal 11 (12): 2781–92.
 
     - Kieft, Brandon, Zhou Li, Samuel Bryson, Robert L. Hettich, Chongle Pan, Xavier Mayali, and Ryan S. Mueller. 2021. “Phytoplankton Exudates and Lysates Support Distinct Microbial Consortia with Specialized Metabolic and Ecophysiological Traits.” Proceedings of the National Academy of Sciences of the United States of America 118 (41). 
+
